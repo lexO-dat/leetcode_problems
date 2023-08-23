@@ -43,5 +43,5 @@ var reorganizeString = function(S) {
 };
 
 // Ejemplo de uso
-console.log(reorganizeString("aab")); // Ejemplo de salida: "aba"
-
+console.log(reorganizeString("aab")); ---> "aba"
+console.log(reorganizeString("aaab")): ---> ""
